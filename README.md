@@ -2,7 +2,7 @@
 
 | 硬件              | 说明                                   |
 | ----------------- | -------------------------------------- |
-| CPU               | i7-8950H(Coffee Lake),XEON 2176M(Coffee Lake)                  |
+| CPU               | i7-8950H(Coffee Lake)/XEON 2176M(Coffee Lake)                  |
 | 主板芯片组        | CM238芯片组（Intel 100系列）           |
 | 显示屏            | 建议1080P以上分辨率                    |
 | **核显**          | **UHD630**(HDMI+DP双输出)              |
